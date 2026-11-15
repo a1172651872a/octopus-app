@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Octopus</string>
+    <string name="exit_tip">再按一次退出应用</string>
+    <string name="error_title">无法连接服务器</string>
+    <string name="error_sub">请检查网络后重试</string>
+    <string name="retry">重试</string>
+    <string name="open_browser">在浏览器中打开</string>
+    <string name="open_link_failed">无法打开该链接</string>
+    <string name="download_started">已开始下载</string>
+    <string name="download_failed">下载失败</string>
+    <string name="retry_download">已授权存储权限，请重新点击下载</string>
+
+    <!-- 站点管理 -->
+    <string name="back">返回</string>
+    <string name="switch_site">切换站点</string>
+    <string name="manage_sites">管理站点</string>
+    <string name="cancel">取消</string>
+    <string name="sites_title">站点管理</string>
+    <string name="add_site">添加站点</string>
+    <string name="edit_site">编辑站点</string>
+    <string name="site_name_label">站点名称</string>
+    <string name="site_name_hint">例如：Octopus 主站</string>
+    <string name="site_url_label">站点地址</string>
+    <string name="site_url_hint">例如：https://octopus.example.com</string>
+    <string name="set_as_default">设为默认站点</string>
+    <string name="save">保存</string>
+    <string name="delete">删除</string>
+    <string name="delete_site_title">删除站点</string>
+    <string name="delete_site_message">确定要删除这个站点吗？</string>
+    <string name="no_sites">还没有添加站点</string>
+    <string name="no_sites_hint">点击下方按钮添加你的第一个站点</string>
+    <string name="site_name_required">请输入站点名称</string>
+    <string name="site_url_invalid">请输入有效的站点地址（http:// 或 https://）</string>
+    <string name="site_exists">该站点已存在</string>
+    <string name="site_saved">站点已保存</string>
+    <string name="site_deleted">站点已删除</string>
+    <string name="site_switched">已切换到站点：%1$s</string>
+
+    <!-- 账号管理 -->
+    <string name="manage_accounts">账号管理</string>
+    <string name="switch_account">切换账号</string>
+    <string name="accounts_title">账号管理</string>
+    <string name="accounts_title_of">账号 · %1$s</string>
+    <string name="add_account">添加账号</string>
+    <string name="edit_account">编辑账号</string>
+    <string name="account_name_label">账号名称</string>
+    <string name="account_name_hint">例如：管理员</string>
+    <string name="account_username_label">用户名</string>
+    <string name="account_username_hint">登录用户名（可选）</string>
+    <string name="account_password_label">密码</string>
+    <string name="account_password_hint">登录密码（可选）</string>
+    <string name="account_password_tip">修改密码后，该账号会退出登录，下次请使用新密码登录</string>
+    <string name="set_as_default_account">设为默认账号</string>
+    <string name="active">当前</string>
+    <string name="edit">编辑</string>
+    <string name="no_accounts">还没有账号</string>
+    <string name="no_accounts_hint">添加账号后，可为该站点保存多个独立登录</string>
+    <string name="account_name_required">请输入账号名称</string>
+    <string name="account_saved">账号已保存</string>
+    <string name="account_deleted">账号已删除</string>
+    <string name="delete_account_title">删除账号</string>
+    <string name="delete_account_message">确定要删除该账号吗？</string>
+    <string name="password_updated">密码已更新，站点已退出登录，请使用新密码重新登录</string>
+    <string name="account_switched">已切换到账号：%1$s</string>
+</resources>

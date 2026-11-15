@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="splash_bg">#FF413A2C</color>
+    <color name="error_text">#FFB3C8BB</color>
+    <color name="error_text_sub">#FFB0A67C</color>
+    <color name="text_primary">#FFF3EFE6</color>
+    <color name="text_secondary">#FFB0A67C</color>
+    <color name="card_bg">#FF3A3128</color>
+    <color name="divider">#FF5A4E3E</color>
+</resources>

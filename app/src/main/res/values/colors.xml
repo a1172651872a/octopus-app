@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Octopus 品牌色（取自项目 logo 与站点主题） -->
+    <color name="octopus_green">#FF496753</color>
+    <color name="octopus_bg">#FFEAE9E3</color>
+    <color name="octopus_bg_dark">#FF413A2C</color>
+    <color name="ic_launcher_background">#FFEAE9E3</color>
+
+    <color name="splash_bg">#FFEAE9E3</color>
+    <color name="error_text">#FF496753</color>
+    <color name="error_text_sub">#FF8A8580</color>
+
+    <!-- 文字与卡片色 -->
+    <color name="text_primary">#FF2B2B2B</color>
+    <color name="text_secondary">#FF8A8580</color>
+    <color name="card_bg">#FFFFFFFF</color>
+    <color name="divider">#FFE4E1D8</color>
+</resources>
