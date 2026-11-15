@@ -30,7 +30,18 @@ Octopus 是一个「一个 Hub 聚合所有 LLM API」的网关，通常以网�
 
 ## 📸 截图
 
-*（本仓库暂未上传真机截图，欢迎补充）*
+<p align="center">
+  <img src="docs/screenshots/home.jpg" width="200" alt="主页" />
+  <img src="docs/screenshots/channel.jpg" width="200" alt="渠道" />
+  <img src="docs/screenshots/group.jpg" width="200" alt="分组" />
+  <img src="docs/screenshots/logs.jpg" width="200" alt="日志" />
+</p>
+<p align="center">
+  <img src="docs/screenshots/settings.jpg" width="200" alt="设置" />
+  <img src="docs/screenshots/switch-site.jpg" width="200" alt="切换站点" />
+  <img src="docs/screenshots/accounts.jpg" width="200" alt="账号管理" />
+  <img src="docs/screenshots/site-edit.jpg" width="200" alt="编辑站点" />
+</p>
 
 应用图标（来自 Octopus 项目 Logo，自适应 + 深浅色 + 圆形）：
 
